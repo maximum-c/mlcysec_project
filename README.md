@@ -1,3 +1,3 @@
 # mlcysec_project
 
-the beginning of something awesome
+Goals create a dictionary style attack which confuses automoderation software.
